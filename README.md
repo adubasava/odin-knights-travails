@@ -1,1 +1,1 @@
-# odin-knights-travails
+# Odin Knights Travails Project
